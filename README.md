@@ -92,7 +92,7 @@ The system enables **early detection**, reduces dependency on specialists, and s
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/drishti-dr-detection.git
+git clone https://github.com/AryashKumar/drishti-diabetic-retinopathy
 
 # Navigate to project folder
 cd drishti-dr-detection
